@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: hsl(217, 54%, 11%);
+    font-family: 'Outfit', sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.item { 
+    width: 300px;
+    margin-top: -40px;
+    background-color: hsl(216, 50%, 16%);
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px hsla(0, 0%, 3%, 0.192);
+}
+
+.nft {
+    width: 100%;
+    border-radius: 15px;
+    height: 300px;
+    background-color: hsl(178, 100%, 50%);
+}
+
+.nft-image {
+    width: 100%;    
+    border-radius: 10px;
+}
+
+.nft-image:hover {
+    opacity: 45%;
+}
+
+.item p {
+    color: white;
+}
+
+#equilibrium-title {
+    padding: 20px 0px 10px 0px;
+    font-size: 22px;
+    font-weight: 600;
+    width: 200px;
+}
+
+#equilibrium-title:hover {
+    color:hsl(178, 100%, 50%);
+}
+
+#equilibrium-paragraph {
+    padding: 10px 0px;
+    font-size: 18px;
+    font-weight: 300;
+    color: hsl(215, 51%, 70%);
+}
+
+#profile-paragraph {
+    color: hsl(215, 51%, 70%);
+    font-weight: 300;
+}
+
+#time-paragraph {
+    color: hsl(215, 51%, 70%);
+}
+.currency {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0px 20px 0px;
+}
+
+.currency .eth, .currency .time{
+    display: flex;
+    margin: 5px;
+}
+
+.eth img {
+    margin-right: 5px;
+    height: 20px;
+}
+
+.eth p {
+    color: hsl(178, 100%, 50%);
+}
+
+.time img {
+    margin-right: 5px;
+    height: 20px;
+}
+
+hr {
+    border: 1px solid hsl(215, 32%, 27%);
+}
+
+.profile {
+    display: flex;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.profile img {
+    height: 30px;
+    margin-right: 10px;
+    border-radius: 50%;
+    border: 1px solid white;
+}
+
+.profile a {
+    color: white;
+    text-decoration: none;
+    font-weight: 300;
+}
+
+.profile a:hover {
+    color:hsl(178, 100%, 50%);
+}
+
