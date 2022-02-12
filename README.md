@@ -32,5 +32,5 @@ I will definetly keep studying Flexbox and some other CSS features before going 
 
 ## Author
 
-- Website - [Caio de Alcantara Santos](https://github.com/caio-alcantara)
-- Twitter - [@yourusername](https://twitter.com/caiiuu3)
+- Website - https://github.com/caio-alcantara
+- Twitter - https://twitter.com/caiiuu3
