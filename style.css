@@ -26,11 +26,8 @@ body {
     box-shadow: 10px 10px 10px hsla(0, 0%, 3%, 0.192);
 }
 
-.nft {
-    width: 100%;
-    border-radius: 15px;
-    height: 300px;
-    background-color: hsl(178, 100%, 50%);
+.item p {
+    color: white;
 }
 
 .nft-image {
@@ -40,10 +37,6 @@ body {
 
 .nft-image:hover {
     opacity: 45%;
-}
-
-.item p {
-    color: white;
 }
 
 #equilibrium-title {
@@ -72,6 +65,7 @@ body {
 #time-paragraph {
     color: hsl(215, 51%, 70%);
 }
+
 .currency {
     display: flex;
     justify-content: space-between;
