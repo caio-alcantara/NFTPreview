@@ -21,7 +21,7 @@ Users should be able to:
 
 ### What I learned
 
-I mostly learnt more of CSS and Flexbox, and also a lot of 'organizating' my HTML.
+I mostly learned more of CSS and Flexbox, and also a lot of 'organizating' my HTML.
 
 
 
