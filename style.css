@@ -26,7 +26,7 @@ body {
     box-shadow: 10px 10px 10px hsla(0, 0%, 3%, 0.192);
 }
 
-.item p {
+.item h1 {
     color: white;
 }
 
